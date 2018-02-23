@@ -4,4 +4,8 @@
 	<groupId>tivyso.testing.junit</groupId>
 	<artifactId>junit-spring-rules</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+
+	<properties>
+		<very.old>true</very.old>
+	</properties>
 </project>
